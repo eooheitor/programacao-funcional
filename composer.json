@@ -1,0 +1,16 @@
+{
+    "name": "heitor/programacao-funcional",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "public\\": "public/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Heitor",
+            "email": "heitor.gb@outlook.com"
+        }
+    ],
+    "require": {}
+}
