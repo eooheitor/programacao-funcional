@@ -26,3 +26,7 @@ Siga os passos abaixo para configurar o ambiente e executar o projeto em sua má
 3. Acesse seu localhost
    ```bash
    php -S localhost:5000 -t public
+
+## Funcionamento
+
+O Conversor é bem simples e intuitivo, depois que o usuário tiver seguido os passos da instalação, irá aparecer uma tela com dois selects e dois inputs, quando o usuário preencher de acordo com sua necessidade, terá o resultado em tela.
