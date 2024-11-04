@@ -4,8 +4,12 @@ Conversor de moedas usando programação funcional
 ### Tecnologias usadas:
 
 1. HTML
-3. Bootstrap
-4. PHP
+2. Bootstrap
+3. PHP
+
+### Integrantes do projeto:
+@eooheitor
+@marciodemarchi 
 
 ## Instalação
 
